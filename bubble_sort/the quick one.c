@@ -34,17 +34,14 @@ int main(int argc, char const *argv[])
             }
             count += 1;
         }
-        sequenceSorted[n - 1] = sequence[n - 1];
-        
-        
-        
+        sequenceSorted[n - 1] = sequence[n - 1];    
     }
     
     for(int j = 0; j < n; j++){
         printf("%d ", sequence[j]);
     }
-    printf("\n");
     
+    printf("\n");
     printf("%d\n", count);
     
     return 0;
