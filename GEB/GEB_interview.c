@@ -1,6 +1,7 @@
 ("(Background:Earlier this year, a highly parallel IBM computer system named “Watson” played a massively publicized 
  game of the television quiz show Jeopardy against two champion human players, winding up crushing them both. 
- Some commentators described Watson’s (or rather, IBM’s) accomplishment as a major step toward the computer understanding of language. )
+ Some commentators described Watson’s (or rather, IBM’s) accomplishment as a major step toward the computer understanding
+ of language. )
 
 Q:Hi, Professor Hofstadter. We know that you are here at U of I to give a speech about IBM computer system “Watson”. 
 Is that your recent research orientation?
@@ -54,8 +55,9 @@ You could imagine a computer exploring itself, not knowing anything about itself
 Q: It’s like halting problem?
 
 
-A: Yeah, a little bit. Of course it get to paradoxical, but you can’t get into paradoxical. But what I mean is that if a computer
-were to gain knowledge about its own strength and own weaknesses over a long period time and build up modern of itself,
+A: Yeah, a little bit. Of course it get to paradoxical, but you can’t get into paradoxical. 
+ But what I mean is that if a computerwere to gain knowledge about its own strength 
+ and own weaknesses over a long period time and build up modern of itself,
 I’d successed. I don’t see that why they couldn’t be like us.
 
 
@@ -103,7 +105,8 @@ A: Absolutely. That’s what my next book is all about. It’s called surfaces a
 Q: So you do think we can realize the dream of AI?
 
 
-A:Well, you know, the word dream sounds positive. Thirty years ago I believe it’s a dream, but now I think it’s more like a nightmare.
+A:Well, you know, the word dream sounds positive. Thirty years ago I believe it’s a dream, but now I think it’s more like
+a nightmare.
 
 
 Q: You mean because we can’t see that day coming or?
@@ -132,7 +135,8 @@ Q: Just like in the Science fiction? Human are dominated by computers?
 
 
 A: Yeah, we would be left in the dust, we would be like dogs, like *&*^(didn’t understand), like bacteria. (laugh)
-and these other beings would be our successors. And I don’t know, to me that’s sad. That’s frightening, that’s not the “dream” of me.
+and these other beings would be our successors. And I don’t know, to me that’s sad. That’s frightening, that’s not 
+the “dream” of me.
 I don’t call it the dream of AI, I call it the nightmare of AI. But there are a lot of people look foward to that.
 They think that’s great. Because they want to be immortal.
 
