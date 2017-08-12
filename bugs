@@ -1,0 +1,3 @@
+1. NULL in ASCII is \x00, so even HJ\x00\n appears the same as HJ\n, but they are not the same.
+when go through a array use while(condition) is better than use for(length), since if we use for loop. it may reach out of the array
+and cause some error.
