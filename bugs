@@ -1,3 +1,7 @@
 1. NULL in ASCII is \x00, so even HJ\x00\n appears the same as HJ\n, but they are not the same.
 when go through a array use while loop ('\0'condition) is better than use for loop(find length first), since if we use for loop. it may reach out of the array
 and cause some error.
+
+
+2. MIND the Consecutive memory location, because when we declare a array, make sure we reserve space for the NULL to end the chunk the current
+use of memory.
