@@ -8,3 +8,5 @@ use of memory.
 3.Do not overstep the bounds of the array or suffer the segmentation fault 
 
 4.do mind the setting of the condition of the loop, those are just silly mistakes but quite annoying.
+
+5.When perform a huge loop, do mind checking whether we stop at the first beginning
