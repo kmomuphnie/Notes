@@ -4,6 +4,7 @@ Use the modulus to accomplish a loop: end to head with specific position
 added manually.
 
 enough buffer space and when do the strcpy make sure that the source strig must have `'\0'`.
+
 ---
 
 
