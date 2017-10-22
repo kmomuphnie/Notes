@@ -17,4 +17,4 @@ use of memory.
 6.When pass a array between function, if you want to dynamiclly change the size of the array, you need to set the `int* & array` instead of just `int array[]` because the latter simply means ` int* array`. So if you use the latter way, you just pass a copy of the original array, there is no way to make any change to the original one, and all change wont be saved.
 
 
-
+7.We need to initialize the thing we declared, sometimes it can be tricky with the constructor stuff
