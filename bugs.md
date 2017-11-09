@@ -18,3 +18,7 @@ use of memory.
 
 
 7.We need to initialize the thing we declared, sometimes it can be tricky with the constructor stuff
+
+8.https://stackoverflow.com/questions/3280410/why-doesnt-delete-destroy-anything
+Thing about  `delete` in C++ and the free, the memory use mechanism.
+It wont reset when u free that, just like tell the computer: you can change this block of memory in the future
