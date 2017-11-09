@@ -22,3 +22,4 @@ use of memory.
 8.https://stackoverflow.com/questions/3280410/why-doesnt-delete-destroy-anything
 Thing about  `delete` in C++ and the free, the memory use mechanism.
 It wont reset when u free that, just like tell the computer: you can change this block of memory in the future
+`Calling delete will mark the memory area as free. It won't necessary reset its old value.`
