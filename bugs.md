@@ -23,3 +23,13 @@ use of memory.
 Thing about  `delete` in C++ and the free, the memory use mechanism.
 It wont reset when u free that, just like tell the computer: you can change this block of memory in the future
 `Calling delete will mark the memory area as free. It won't necessary reset its old value.`
+
+9.When dealing with the class which contains a head of a linked list, make sure WHEN you manipulate the linked list, you do
+Editting the linked list, For example, if `head == NULL`, you copy the head and think youself is building the linked list, but 
+actually nothing happened in head, because you copy a NULL. Another example, when you trying to delete a node in the linked 
+list, if the one you want to delete is the first one in the linked list, when you free it, make sure you use the original 
+`head ` to free, otherwise, the head will points to a area which is already freeed and BAD_ACE may happen
+
+10. When you build the linked list in a order, make sure you check the first node of the linked list.
+
+11.consider the double linked list more often
