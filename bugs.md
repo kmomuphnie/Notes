@@ -33,3 +33,5 @@ list, if the one you want to delete is the first one in the linked list, when yo
 10. When you build the linked list in a order, make sure you check the first node of the linked list.
 
 11.consider the double linked list more often
+
+12.
