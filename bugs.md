@@ -34,4 +34,8 @@ list, if the one you want to delete is the first one in the linked list, when yo
 
 11.consider the double linked list more often
 
-12.
+12.When cant find where is wrong from the logic level, go check the naming convetion and make sure you are use whatever your want to use.
+
+13 Fk the netbeans
+
+14 
