@@ -17,3 +17,4 @@ Tricks
 
 5.We can perform the TRIE data structure to full-fill the need of higher dimentional trees
 
+6.I need a yellow ruber duck
