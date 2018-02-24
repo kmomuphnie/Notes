@@ -18,3 +18,9 @@ Tricks
 5.We can perform the TRIE data structure to full-fill the need of higher dimentional trees
 
 6.I need a yellow ruber duck
+
+7.different way to initial string in c++ 
+http://www.cplusplus.com/reference/string/string/string/
+
+8.range based for loop
+  
