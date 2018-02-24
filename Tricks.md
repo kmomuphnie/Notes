@@ -25,3 +25,6 @@ http://www.cplusplus.com/reference/string/string/string/
 8.range based for loop
   
 9. <map> the find iterator will equal to the end iterator if it cannot find what it wants
+
+10. initialize 2d vector
+https://stackoverflow.com/questions/17663186/initializing-a-two-dimensional-stdvector
