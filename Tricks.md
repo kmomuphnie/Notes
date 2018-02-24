@@ -24,3 +24,4 @@ http://www.cplusplus.com/reference/string/string/string/
 
 8.range based for loop
   
+9. <map> the find iterator will equal to the end iterator if it cannot find what it wants
