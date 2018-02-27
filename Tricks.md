@@ -28,3 +28,4 @@ http://www.cplusplus.com/reference/string/string/string/
 
 10. initialize 2d vector
 https://stackoverflow.com/questions/17663186/initializing-a-two-dimensional-stdvector
+11. memory / port / IOhttps://superuser.com/questions/703695/difference-between-port-mapped-and-memory-mapped-access
