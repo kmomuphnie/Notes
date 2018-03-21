@@ -31,7 +31,7 @@ https://stackoverflow.com/questions/17663186/initializing-a-two-dimensional-stdv
 11. memory / port / IOhttps://superuser.com/questions/703695/difference-between-port-mapped-and-memory-mapped-access
 
 12.https://stackoverflow.com/questions/5914422/proper-way-to-initialize-c-structs
-...
+---
 struct MyStruct {
   private:
     int someInt_;
@@ -41,4 +41,4 @@ struct MyStruct {
     MyStruct(): someInt_(0), someFloat_(1.0) {} // Initializer list will set appropriate values
 
 };
-...
+---
