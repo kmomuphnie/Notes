@@ -36,6 +36,6 @@ list, if the one you want to delete is the first one in the linked list, when yo
 
 12.When cant find where is wrong from the logic level, go check the naming convetion and make sure you are use whatever your want to use.
 
-13 Fk the netbeans
+13 Fk the netbeans, the auto forming sucks
 
-14 
+14 treated char in the numerical string as int. Dont do it again. the boolen doesnt accept it but wont tell u, just automatic false when u do the comparison
